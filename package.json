@@ -14,7 +14,7 @@
         "cli-color": "*",
         "cryptonote-util": "git://github.com/dvandal/node-cryptonote-util",
         "cryptonight-hashing": "git://github.com/dvandal/node-cryptonight-hashing",
-        "multi-hashing": "git://github.com/dvandal/node-multi-hashing"
+        "multi-hashing": "git://github.com/dvandal/node-multi-hashing",
         "dateformat": "*",
         "mailgun.js": "*",
         "node-telegram-bot-api": "*",
