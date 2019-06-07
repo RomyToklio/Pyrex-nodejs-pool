@@ -9,9 +9,10 @@
 
     "daemonType": "default",
     "cnAlgorithm": "cryptonight",
-    "cnVariant": 8,
+    "cnVariant": 13,
     "cnBlobType": 0,
-
+    "includeHeight": true,
+    
     "logging": {
         "files": {
             "level": "info",
@@ -147,12 +148,14 @@
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 6870
+        "port": 6970
     },
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 6871
+        "port": 6971,
+        "user": "",
+        "pass": ""
     },
 
     "redis": {
